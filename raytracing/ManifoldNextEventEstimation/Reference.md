@@ -11,3 +11,6 @@ MNEEをBlenderのCyclesに組み込む話がされている
 
 高周波Causticsに関する論文
 - https://rgl.epfl.ch/publications/Zeltner2020Specular
+
+Minifold_walkについての論文　多分これが一番最初にmanifold探索を使った論文
+- https://www.cs.cornell.edu/projects/manifolds-sg12/
